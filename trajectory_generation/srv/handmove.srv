@@ -1,0 +1,7 @@
+string scenario_l
+string scenario_r
+string scenario_hw
+float32 talkTime
+---
+int16 result
+
